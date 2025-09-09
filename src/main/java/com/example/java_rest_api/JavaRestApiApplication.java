@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavaRestApiApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from Java springboot");
+		System.out.println("Hello from Java springboot Restapi");
 		SpringApplication.run(JavaRestApiApplication.class, args);
 	}
 
